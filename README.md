@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Kumel. A highschool junior with a passion for learning new things with a background in cyber-security and programming. 
+
+- 🔭 I’m currently working on ...
+
+[![Kumel's GitHub stats](https://github-readme-stats.vercel.app/api?username=koolmale)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koolmale)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Koolmale/koolmale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
